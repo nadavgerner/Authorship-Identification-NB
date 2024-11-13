@@ -1,0 +1,6 @@
+__pycache__
+data/
+./pytest_cache
+build/
+dist/
+naive_bayes.egg-info
